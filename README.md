@@ -13,7 +13,7 @@
 <!-- ═══ BADGES ═══ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=THEBAT02468&label=GOTHAM%20VISITORS&color=f5c518&style=for-the-badge" />
-  <a href="https://linkedin.com/in/santiagodavid-lopez-villota76167a27b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santiago-david-lopez-villota-76167a27b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bat-portfolio-pearl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-f5c518?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="mailto:sdlv02468@mail.com"><img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
