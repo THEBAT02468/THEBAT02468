@@ -1,6 +1,6 @@
 <!-- ╔═══════════════ BAT-SIGNAL · BANNER ═══════════════╗ -->
 <p align="center">
-  <img src="https://uxwing.com/batman-icon/"/>
+  <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/señal.png" width="260"/>
 </p>
 
 <!-- ═══ TEXTO QUE SE ESCRIBE SOLO (NEÓN) ═══ -->
@@ -16,9 +16,13 @@
   <a href="mailto:sdlv02468@mail.com"><img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<!-- divisor neón -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:f5c518,100:ff003c&height=3&width=900" width="100%"/>
 
-### 🦇 // SOBRE EL VIGILANTE
+<!-- título imagen -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%F0%9F%A6%87%20%2F%2F%20SOBRE%20EL%20VIGILANTE&fontSize=26&fontColor=f5c518&fontAlignY=55&desc=&width=600" />
+</p>
 
 ```python
 class TheBat:
@@ -26,7 +30,7 @@ class TheBat:
     def __init__(self):
         self.alias       = "THEBAT02468"
         self.base        = "Gotham (Pasto, Colombia 🇨🇴)"
-        self.mision       = ["Full-Stack Dev", "Pentester", "Data Analyst"]
+        self.mision      = ["Full-Stack Dev", "Pentester", "Data Analyst"]
         self.educacion   = "Ing. Informática · 9° semestre"
         self.semillero   = "Fundador de ANIMUS HACKING 🔐"
         self.idiomas     = ["Español (Nativo)", "Inglés (B2)"]
@@ -38,14 +42,15 @@ class TheBat:
             self.construir_soluciones_seguras()
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:f5c518,100:ff003c&height=3&width=900" width="100%"/>
 
-### 🛠️ // ARSENAL TECNOLÓGICO
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20%2F%2F%20ARSENAL%20TECNOL%C3%93GICO&fontSize=26&fontColor=f5c518&fontAlignY=55&width=600" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,docker,mysql,js,html,css,bash,linux,git,github,vscode&theme=dark" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -53,49 +58,44 @@ class TheBat:
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:f5c518,100:ff003c&height=3&width=900" width="100%"/>
 
-### 🚀 // CASOS RESUELTOS
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%F0%9F%9A%80%20%2F%2F%20CASOS%20RESUELTOS&fontSize=26&fontColor=f5c518&fontAlignY=55&width=600" />
+</p>
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | 📱 **Legacy Gym App** | App móvil multiplataforma para Android e iOS | `React Native` `Expo` `MySQL` |
-| 🦇 **ANIMUS HACKING** | Semillero de investigación en ciberseguridad y pentesting que fundé y lidero | `Docker` `Bash` `Pentesting` |
+| 🦇 **ANIMUS HACKING** | Semillero de ciberseguridad y pentesting que fundé y lidero | `Docker` `Bash` `Pentesting` |
 | 🎮 **CodeQuest** | Plataforma gamificada de aprendizaje con feedback inmediato | `Python` `JavaScript` `MySQL` |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:f5c518,100:ff003c&height=3&width=900" width="100%"/>
 
-### 📊 // EXPEDIENTE GITHUB
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=THEBAT02468&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=f5c518&icon_color=00fff7&text_color=c0c0d0&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEBAT02468&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=f5c518&text_color=c0c0d0&langs_count=8" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%F0%9F%93%8A%20%2F%2F%20EXPEDIENTE%20GITHUB&fontSize=26&fontColor=f5c518&fontAlignY=55&width=600" />
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=THEBAT02468&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=f5c518&icon_color=00fff7&text_color=c0c0d0&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=THEBAT02468&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=f5c518&text_color=c0c0d0&langs_count=8" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEBAT02468&theme=dark&hide_border=true&background=0a0a0f&ring=f5c518&fire=ff003c&currStreakLabel=f5c518&sideLabels=00fff7&dates=9090a0" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THEBAT02468&theme=matrix&no-frame=true&column=7&margin-w=8" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:f5c518,100:ff003c&height=3&width=900" width="100%"/>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%F0%9F%8F%86%20%2F%2F%20TROFEOS&fontSize=26&fontColor=f5c518&fontAlignY=55&width=600" />
 </p>
-
----
-
-### 🏆 // TROFEOS
 
 - 🥈 **2° lugar** en competencia internacional de hacking en España
 - 🎯 Fundador del semillero de investigación **ANIMUS HACKING** (Aunar)
 - 📈 Mejora del **30%** en habilidades de detección de amenazas en el semillero
 - 📱 Desarrollo e implementación exitosa de **Legacy Gym App** (Android & iOS)
 - 🎮 Creación de **CodeQuest**, plataforma gamificada con feedback inmediato
-
----
-
-<!-- ═══ GRÁFICO DE ACTIVIDAD (NEÓN) ═══ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THEBAT02468&bg_color=0a0a0f&color=f5c518&line=00fff7&point=ff003c&area=true&hide_border=true&custom_title=Patrullaje%20de%20commits" width="100%"/>
-</p>
 
 <!-- ═══ FOOTER BAT-SIGNAL ═══ -->
 <p align="center">
