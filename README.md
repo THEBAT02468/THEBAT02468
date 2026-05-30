@@ -84,7 +84,9 @@ class TheBat:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=THEBAT02468&theme=dark&hide_border=true&background=0a0a0f&ring=f5c518&fire=ff003c&currStreakLabel=f5c518&sideLabels=00fff7&dates=9090a0" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/hackgif.gif" width="400"/>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:f5c518,100:ff003c&height=3&width=900" width="100%"/>
 
 <p align="left">
@@ -98,6 +100,9 @@ class TheBat:
 - 🎮 Creación de **CodeQuest**, plataforma gamificada con feedback inmediato
 
 <!-- ═══ FOOTER BAT-SIGNAL ═══ -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batGif.gif" width="400"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f5c518,50:1a1a2e,100:0a0a0f&height=130&section=footer&text=%22It%27s%20not%20who%20I%20am%20underneath%2C%20but%20what%20I%20code%20that%20defines%20me.%22&fontSize=14&fontColor=00fff7&animation=fadeIn" width="100%"/>
 </p>
