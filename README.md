@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F5C518&background=0A0A0F00&center=true&vCenter=true&width=650&lines=%3E+Ingeniero+Inform%C3%A1tico+%F0%9F%8E%93;%3E+Pentester+%26+Hacker+%C3%89tico+%F0%9F%94%90;%3E+Desarrollador+Full-Stack+%F0%9F%92%BB;%3E+Analista+de+Datos+%F0%9F%93%8A;%3E+Fundador+de+ANIMUS+HACKING+%F0%9F%A6%87" />
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batGif2.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batgif.gif" width="400"/>
 </p>
 <!-- ═══ BADGES ═══ -->
 <p align="center">
@@ -103,7 +103,7 @@ class TheBat:
 
 <!-- ═══ FOOTER BAT-SIGNAL ═══ -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batGif.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batgif2.gif" width="400"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f5c518,50:1a1a2e,100:0a0a0f&height=130&section=footer&text=%22It%27s%20not%20who%20I%20am%20underneath%2C%20but%20what%20I%20code%20that%20defines%20me.%22&fontSize=14&fontColor=00fff7&animation=fadeIn" width="100%"/>
