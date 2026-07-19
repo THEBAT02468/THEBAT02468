@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,45:101034,100:050510&height=230&text=T%20H%20E%20B%20A%20T&fontSize=55&fontColor=00fff7&stroke=f5c518&strokeWidth=1&desc=%E2%96%9A%20WAKE%20UP%2C%20VIGILANTE%20%E2%96%B8%20WE%20HAVE%20A%20CITY%20TO%20SAVE%20%E2%96%9A&descSize=15&descColor=7df9ff&descAlignY=78&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/señal.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/señal.gif" width="260"/>
 </p>
 
 <!-- ═══ TEXTO QUE SE ESCRIBE SOLO (NEÓN AZUL) ═══ -->
