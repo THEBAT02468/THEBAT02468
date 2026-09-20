@@ -4,11 +4,6 @@
      ║   UBICACIÓN: BATICUEVA · GOTHAM CITY · EARTH-1            ║
      ╚═══════════════════════════════════════════════════════════╝ -->
 
-<!-- ═══ BANNER PRINCIPAL ═══ -->
-<p align="center">
-  <img src="banner.png" width="100%" alt="BATCOMPUTER Banner"/>
-</p>
-
 <!-- ═══ HERO · CIELO DE GOTHAM ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,45:101034,100:000000&height=230&text=T%20H%20E%20B%20A%20T&fontSize=55&fontColor=00fff7&stroke=ff003c&strokeWidth=1&desc=%E2%96%9A%20WAKE%20UP%2C%20VIGILANTE%20%E2%96%B8%20WE%20HAVE%20A%20CITY%20TO%20SAVE%20%E2%96%9A&descSize=15&descColor=7df9ff&descAlignY=78&animation=twinkling" width="100%"/>
 
