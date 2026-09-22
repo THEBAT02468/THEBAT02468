@@ -51,7 +51,7 @@ class TheBat:
         self.mision        = ["Full-Stack Dev", "Pentester", "Data Analyst", "ML Engineer"]
         self.armamento     = ["Python", "Java", "Spring Boot", "Django", "SQL",
                               "Kafka", "Scikit-learn", "TensorFlow", "Roboflow"]
-        self.entrenamiento = ["Calistenia", "Powerlifting", "Gym"]
+        self.entrenamiento = ["Calistenia", "Powerlifting", "Gym", "Boxing"]
         self.aliados       = ["Alfred", "Lucius Fox", "Oracle", "GCPD"]
         self.semillero     = "Fundador de ANIMUS HACKING"
         self.juramento     = "I am vengeance. I am the night. I am THEBAT."
