@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batgif.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batgif2.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -250,7 +250,7 @@ class TheBat:
 
 <!-- ═══ FOOTER BAT-SIGNAL ═══ -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batgif2.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/THEBAT02468/THEBAT02468/main/batgif.gif" width="400"/>
 </p>
 
 ```console
